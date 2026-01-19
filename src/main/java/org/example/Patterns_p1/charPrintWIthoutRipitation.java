@@ -18,7 +18,7 @@ public class charPrintWIthoutRipitation {
     public static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter No of Rows: ");
+        System.out.print("Enter No of Rows: ");
         n = sc.nextInt();
         pattern(n);
     }
