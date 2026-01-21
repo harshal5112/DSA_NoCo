@@ -3,7 +3,6 @@ package org.example.Patterns_p1;
 import java.util.Scanner;
 
 public class ButterflyPattern {
-
     public static void printButterfly(int n) {
 
         // Upper half
@@ -70,4 +69,4 @@ public class ButterflyPattern {
  * *     * *
  *         *
 
- */
+*/
