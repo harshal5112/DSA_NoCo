@@ -205,9 +205,14 @@ Butterfly teaches:
 ✔ math formula building
 
 Which directly helps in:
+
 👉 matrix problems
+
 👉 DP grids
+
 👉 2D arrays
+
 👉 printing problems
+
 👉 recursion patterns
 
