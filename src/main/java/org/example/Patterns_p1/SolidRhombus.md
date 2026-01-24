@@ -21,7 +21,6 @@ Imagine a square:
 ****
 ****
 ```
-
 Now just **push each row right**:
 
 ```
