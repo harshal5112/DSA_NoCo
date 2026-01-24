@@ -29,3 +29,14 @@ public class ReversePattern {
         RevStar(n);
     }
 }
+/*
+Output-
+Enter No of Rows:
+5
+* * * * *
+* * * *
+* * *
+* *
+*
+
+*/
