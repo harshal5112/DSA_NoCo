@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class SolidRhombus {
     public static void printSolidRhombus(int n) {
-
         for (int i = 1; i <= n; i++) {
             // Spaces (shift right)
             for (int space = 1; space <= n - i; space++) {
@@ -17,7 +16,6 @@ public class SolidRhombus {
             System.out.println();
         }
     }
-
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
