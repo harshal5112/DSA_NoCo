@@ -50,3 +50,18 @@ public class DiamondPattern {
         sc.close();
     }
 }
+/* output-
+
+Enter number of rows: 5
+        *
+      * * *
+    * * * * *
+  * * * * * * *
+* * * * * * * * *
+  * * * * * * *
+    * * * * *
+      * * *
+        *
+
+ */
+
