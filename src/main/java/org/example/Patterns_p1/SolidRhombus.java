@@ -21,12 +21,12 @@ public class SolidRhombus {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter number of rows: ");
         int n = sc.nextInt();
-
         printSolidRhombus(n);
 
         sc.close();
     }
 }
+
 
 /*
 Enter number of rows: 5
