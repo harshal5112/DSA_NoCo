@@ -30,10 +30,7 @@ public class ReversePattern {
     }
 }
 /*
-
-
-Output-
-
+output -
 Enter No of Rows:
 5
 * * * * *
